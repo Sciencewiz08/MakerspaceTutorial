@@ -1,0 +1,4 @@
+C:\Users\cwessner\Documents\Hololens Projects\Origami - Copy\App4\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\cwessner\Documents\Hololens Projects\Origami - Copy\App4\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\cwessner\Documents\Hololens Projects\Origami - Copy\App4\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\cwessner\Documents\Hololens Projects\Origami - Copy\App4\Origami\Origami.csproj;x86
